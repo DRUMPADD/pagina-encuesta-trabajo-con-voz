@@ -6,7 +6,7 @@
 
 ## Herramientas
 
-"""
+'''
 PHP
 Javascript
-"""
+'''
