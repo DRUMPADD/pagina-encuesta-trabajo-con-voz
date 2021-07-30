@@ -4,9 +4,8 @@
 # <button><a href="https://www.apachefriends.org/es/index.html">Xampp</a></button>
 
 
-## Herramientas
-
-'''
-PHP
-Javascript
-'''
+<h2>Lenguajes</h2>
+<ul>
+  <li>PHP</li>
+  <li>Javascript</li>
+</ul>
